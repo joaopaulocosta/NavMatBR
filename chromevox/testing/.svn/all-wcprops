@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/211/trunk/chromevox/chromevox/testing
+END
+abstract_test_case.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/211/trunk/chromevox/chromevox/testing/abstract_test_case.js
+END
+spoken_list_builder.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/201/trunk/chromevox/chromevox/testing/spoken_list_builder.js
+END
+tester.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/211/trunk/chromevox/chromevox/testing/tester.js
+END

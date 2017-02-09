@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/241/trunk/chromevox/speech_rules
+END
+speech_rule_functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/speech_rule_functions.js
+END
+mathml_store_rules.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/241/trunk/chromevox/speech_rules/mathml_store_rules.js
+END
+store_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/store_util.js
+END
+speech_rule_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/229/trunk/chromevox/speech_rules/speech_rule_store.js
+END
+mathml_store_util.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/mathml_store_util.js
+END
+mathml_store_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/mathml_store_test.js
+END
+speech_rule_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/229/trunk/chromevox/speech_rules/speech_rule_test.js
+END
+base_rule_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/base_rule_store.js
+END
+speech_rule.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/229/trunk/chromevox/speech_rules/speech_rule.js
+END
+math_simple_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/math_simple_store.js
+END
+mathml_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/mathml_store.js
+END
+speech_rule_evaluator.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/229/trunk/chromevox/speech_rules/speech_rule_evaluator.js
+END
+speech_rule_engine.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/speech_rule_engine.js
+END
+math_store.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/231/trunk/chromevox/speech_rules/math_store.js
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/236/trunk/chromevox/chromevox/background/braille
+END
+liblouis_nacl_x86_64.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/236/trunk/chromevox/chromevox/background/braille/liblouis_nacl_x86_64.nexe
+END
+liblouis_nacl_arm.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/236/trunk/chromevox/chromevox/background/braille/liblouis_nacl_arm.nexe
+END
+liblouis_nacl.nmf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/234/trunk/chromevox/chromevox/background/braille/liblouis_nacl.nmf
+END
+liblouis_nacl_x86_32.nexe
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/236/trunk/chromevox/chromevox/background/braille/liblouis_nacl_x86_32.nexe
+END

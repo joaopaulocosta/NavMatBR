@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/233/trunk/chromevox/host/chrome
+END
+tts_base.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/211/trunk/chromevox/host/chrome/tts_base.js
+END
+braille_key_types.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/233/trunk/chromevox/host/chrome/braille_key_types.js
+END
+extension_bridge.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/extension_bridge.js
+END
+earcons_background.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/211/trunk/chromevox/host/chrome/earcons_background.js
+END
+braille_background.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/braille_background.js
+END
+tts_background.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/tts_background.js
+END
+braille_display_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/233/trunk/chromevox/host/chrome/braille_display_manager.js
+END
+msgs.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/201/trunk/chromevox/host/chrome/msgs.js
+END
+tts.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/211/trunk/chromevox/host/chrome/tts.js
+END
+earcons.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/211/trunk/chromevox/host/chrome/earcons.js
+END
+braille.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/braille.js
+END
+mathjax.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/mathjax.js
+END
+host.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/229/trunk/chromevox/host/chrome/host.js
+END

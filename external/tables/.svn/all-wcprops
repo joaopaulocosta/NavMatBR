@@ -1,0 +1,1385 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/234/trunk/chromevox/external/tables
+END
+ukchardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ukchardefs.cti
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/README
+END
+de-ch-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-ch-g2.ctb
+END
+chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/chardefs.cti
+END
+hyph_it_IT.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_it_IT.dic
+END
+ru-ru-comp8
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ru-ru-comp8
+END
+fr-bfu-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-bfu-g2.ctb
+END
+bg.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bg.ctb
+END
+nemethdefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nemethdefs.cti
+END
+ar-ar-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ar-ar-g1.utb
+END
+oriya.cti
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/oriya.cti
+END
+no-no-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-g1.ctb
+END
+pt-pt-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/pt-pt-g1.utb
+END
+no-no-g3.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-g3.ctb
+END
+et-g0.utb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/et-g0.utb
+END
+bo.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bo.ctb
+END
+kru.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/kru.ctb
+END
+es-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/234/trunk/chromevox/external/tables/es-translation.ctb
+END
+lang2table
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/lang2table
+END
+wiskunde_edit.cti
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/wiskunde_edit.cti
+END
+fi-fi-8dot.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fi-fi-8dot.ctb
+END
+ca-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ca-chardefs.cti
+END
+marburg_single_cell_defs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/234/trunk/chromevox/external/tables/marburg_single_cell_defs.cti
+END
+gez-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gez-chardefs.cti
+END
+hu-hu-comp8.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hu-hu-comp8.ctb
+END
+cs-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/cs-g1.ctb
+END
+da-1252.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da-1252.ctb
+END
+no-no-g0.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-g0.utb
+END
+es-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/es-g1.ctb
+END
+hyph_es_ES.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_es_ES.dic
+END
+spaces.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/spaces.ctb
+END
+hyph_de_DE.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_de_DE.dic
+END
+ro.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ro.ctb
+END
+boxes.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/boxes.ctb
+END
+hyph_nl_NL.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_nl_NL.dic
+END
+text_nabcc.dis
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/text_nabcc.dis
+END
+ukmaths_edit.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ukmaths_edit.ctb
+END
+en-us-compbrl.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-compbrl.ctb
+END
+ukmaths_single_cell_defs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ukmaths_single_cell_defs.cti
+END
+kok.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/kok.ctb
+END
+ru.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ru.ctb
+END
+ga.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ga.ctb
+END
+new.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/new.ctb
+END
+ukmaths_unicode_defs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ukmaths_unicode_defs.cti
+END
+ckb-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ckb-translation.ctb
+END
+digits6DotsPlusDot6.uti
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/234/trunk/chromevox/external/tables/digits6DotsPlusDot6.uti
+END
+no-no.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no.dis
+END
+en-GB-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-GB-g2.ctb
+END
+unicodedefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/unicodedefs.cti
+END
+da-lt.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da-lt.ctb
+END
+nl-BE-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nl-BE-g1.ctb
+END
+bra.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bra.ctb
+END
+ckb-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ckb-g1.ctb
+END
+mwr.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/mwr.ctb
+END
+en-chess.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-chess.ctb
+END
+en-us-brf.dis
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-brf.dis
+END
+sd.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sd.ctb
+END
+kn.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/kn.ctb
+END
+gu.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gu.ctb
+END
+en-us-interline.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-interline.ctb
+END
+eurodefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/eurodefs.cti
+END
+de-g1-core.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-g1-core.ctb
+END
+UEBC-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/UEBC-g2.ctb
+END
+da.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da.ctb
+END
+nemeth_edit.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nemeth_edit.ctb
+END
+no-no.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no.ctb
+END
+hyph_no_NO.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_no_NO.dic
+END
+pt-pt-comp8.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/pt-pt-comp8.ctb
+END
+ca-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ca-g1.ctb
+END
+sr-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sr-g1.ctb
+END
+digits6Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/digits6Dots.uti
+END
+digits8Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/digits8Dots.uti
+END
+marburg.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/marburg.ctb
+END
+sv-1989.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sv-1989.ctb
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Makefile.am
+END
+hu-backtranslate-correction.dis
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hu-backtranslate-correction.dis
+END
+ta.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ta.ctb
+END
+UEBC-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/UEBC-g1.utb
+END
+gr-gr-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gr-gr-g1.utb
+END
+ar-fa.utb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ar-fa.utb
+END
+te.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/te.ctb
+END
+hr.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hr.ctb
+END
+hyph_fr_FR.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_fr_FR.dic
+END
+fi1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fi1.ctb
+END
+nemeth.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nemeth.ctb
+END
+hyph_cs_CZ.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_cs_CZ.dic
+END
+zh-hk.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/zh-hk.ctb
+END
+countries.cti
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/234/trunk/chromevox/external/tables/countries.cti
+END
+de-de-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de-g2.ctb
+END
+de-g2-core.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-g2-core.ctb
+END
+hyph_pl_PL.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_pl_PL.dic
+END
+cs-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/cs-chardefs.cti
+END
+es-old.dis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/es-old.dis
+END
+en-us-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-g2.ctb
+END
+unicode.dis
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/unicode.dis
+END
+sv-1996.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sv-1996.ctb
+END
+hu-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hu-chardefs.cti
+END
+de-de-comp8.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de-comp8.ctb
+END
+Es-Es-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Es-Es-g1.utb
+END
+as.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/as.ctb
+END
+kannada.cti
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/kannada.cti
+END
+de-ch-accents.cti
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-ch-accents.cti
+END
+hyph_pt_PT.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_pt_PT.dic
+END
+no-no-generic.dis
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-generic.dis
+END
+devanagari.cti
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/devanagari.cti
+END
+et.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/et.ctb
+END
+ml.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ml.ctb
+END
+sk-sk.utb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sk-sk.utb
+END
+printables.cti
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/printables.cti
+END
+ta-ta-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ta-ta-g1.ctb
+END
+is.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/is.ctb
+END
+ethio-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ethio-g1.ctb
+END
+en-us-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-g1.utb
+END
+sl-si-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sl-si-g1.utb
+END
+mr.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/mr.ctb
+END
+loweredDigits6Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/234/trunk/chromevox/external/tables/loweredDigits6Dots.uti
+END
+en-gb-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-gb-g1.utb
+END
+mt.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/mt.ctb
+END
+loweredDigits8Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/234/trunk/chromevox/external/tables/loweredDigits8Dots.uti
+END
+gez-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gez-translation.ctb
+END
+nl-BE-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nl-BE-chardefs.cti
+END
+se-se.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/se-se.dis
+END
+de-ch-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-ch-g1.ctb
+END
+is-chardefs6.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/is-chardefs6.cti
+END
+Lv-Lv-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Lv-Lv-g1.utb
+END
+is-chardefs8.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/is-chardefs8.cti
+END
+da-dk.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da-dk.dis
+END
+wiskunde.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/wiskunde.ctb
+END
+bh.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bh.ctb
+END
+de-chess.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-chess.ctb
+END
+hu-hu-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hu-hu-g1.ctb
+END
+no-no-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-g2.ctb
+END
+de-eurobrl6.dis
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-eurobrl6.dis
+END
+fr-2007.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-2007.ctb
+END
+hyph_sv_SE.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_sv_SE.dic
+END
+bn.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bn.ctb
+END
+no-no-generic.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/no-no-generic.ctb
+END
+de-chardefs6.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-chardefs6.cti
+END
+ne.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ne.ctb
+END
+de-de-accents.cti
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de-accents.cti
+END
+marburg_edit.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/marburg_edit.ctb
+END
+de-chardefs8.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-chardefs8.cti
+END
+de-ch-g0.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-ch-g0.utb
+END
+eo-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/eo-g1.ctb
+END
+awa.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/awa.ctb
+END
+bengali.cti
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/bengali.cti
+END
+se-se.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/se-se.ctb
+END
+Cz-Cz-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Cz-Cz-g1.utb
+END
+marburg_unicode_defs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/234/trunk/chromevox/external/tables/marburg_unicode_defs.cti
+END
+tamil.cti
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/tamil.cti
+END
+vi.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/vi.ctb
+END
+latinLetterDef6Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/234/trunk/chromevox/external/tables/latinLetterDef6Dots.uti
+END
+latinLetterDef8Dots.uti
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/234/trunk/chromevox/external/tables/latinLetterDef8Dots.uti
+END
+Fr-Fr-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Fr-Fr-g2.ctb
+END
+de-eurobrl6u.dis
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-eurobrl6u.dis
+END
+us-table.dis
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/us-table.dis
+END
+gon.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gon.ctb
+END
+wiskunde-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/234/trunk/chromevox/external/tables/wiskunde-translation.ctb
+END
+da-dk-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da-dk-g2.ctb
+END
+gd.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gd.ctb
+END
+cy-cy-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/cy-cy-g2.ctb
+END
+Fr-Ca-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Fr-Ca-g2.ctb
+END
+gurmukhi.cti
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gurmukhi.cti
+END
+sa.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sa.ctb
+END
+kha.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/kha.ctb
+END
+nl-BE.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nl-BE.dis
+END
+de-g0-core.utb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-g0-core.utb
+END
+dra.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/dra.ctb
+END
+da-dk-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/da-dk-g1.utb
+END
+Pl-Pl-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Pl-Pl-g1.utb
+END
+cy-cy-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/cy-cy-g1.utb
+END
+telugu.cti
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/telugu.cti
+END
+ukmaths.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ukmaths.ctb
+END
+wiskunde-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/234/trunk/chromevox/external/tables/wiskunde-chardefs.cti
+END
+or.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/or.ctb
+END
+fr-bfu-comp6.utb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-bfu-comp6.utb
+END
+hyph_hu_HU.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_hu_HU.dic
+END
+fr-bfu-comp8.utb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-bfu-comp8.utb
+END
+hyph_en_US.dic
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hyph_en_US.dic
+END
+gr-bb.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gr-bb.ctb
+END
+gez-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gez-g1.ctb
+END
+corrections.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/corrections.ctb
+END
+compress.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/compress.ctb
+END
+he.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/he.ctb
+END
+hi.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hi.ctb
+END
+pa.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/pa.ctb
+END
+cs-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/234/trunk/chromevox/external/tables/cs-translation.ctb
+END
+Es-Es-G0.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Es-Es-G0.utb
+END
+en_CA.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en_CA.ctb
+END
+es-new.dis
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/234/trunk/chromevox/external/tables/es-new.dis
+END
+sr-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sr-chardefs.cti
+END
+pi.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/pi.ctb
+END
+en-us-comp6.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-comp6.ctb
+END
+en-us-comp8.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-comp8.ctb
+END
+lt.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/lt.ctb
+END
+braille-patterns.cti
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/234/trunk/chromevox/external/tables/braille-patterns.cti
+END
+fi2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fi2.ctb
+END
+sr-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sr-translation.ctb
+END
+hy.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hy.ctb
+END
+maketablelist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/maketablelist.sh
+END
+de-de-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de-g1.ctb
+END
+uni-text.dis
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/uni-text.dis
+END
+tr.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/234/trunk/chromevox/external/tables/tr.ctb
+END
+sat.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sat.ctb
+END
+nl-BE-translation.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nl-BE-translation.ctb
+END
+fi-fi.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fi-fi.ctb
+END
+it-it-comp6.utb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/it-it-comp6.utb
+END
+es-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/es-chardefs.cti
+END
+hi-in-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hi-in-g1.utb
+END
+it-it-comp8.utb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/234/trunk/chromevox/external/tables/it-it-comp8.utb
+END
+en-us-g1.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-g1.ctb
+END
+hu-exceptionwords.cti
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/234/trunk/chromevox/external/tables/hu-exceptionwords.cti
+END
+mun.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/mun.ctb
+END
+ru-ru-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ru-ru-g1.utb
+END
+fr-fr-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-fr-g1.utb
+END
+Se-Se-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Se-Se-g1.utb
+END
+de-de-g0.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de-g0.utb
+END
+malayalam.cti
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/234/trunk/chromevox/external/tables/malayalam.cti
+END
+Nl-Nl-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/Nl-Nl-g1.utb
+END
+zh-tw.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/zh-tw.ctb
+END
+pt-pt-g2.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/pt-pt-g2.ctb
+END
+gujarati.cti
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/gujarati.cti
+END
+fr-ca-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/fr-ca-g1.utb
+END
+sk-sk-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/sk-sk-g1.utb
+END
+ru-ru.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ru-ru.dis
+END
+en-us-mathtext.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/234/trunk/chromevox/external/tables/en-us-mathtext.ctb
+END
+mni.ctb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/234/trunk/chromevox/external/tables/mni.ctb
+END
+ckb-chardefs.cti
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/234/trunk/chromevox/external/tables/ckb-chardefs.cti
+END
+nl-be-g1.utb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/external/tables/nl-be-g1.utb
+END
+de-de.dis
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/234/trunk/chromevox/external/tables/de-de.dis
+END

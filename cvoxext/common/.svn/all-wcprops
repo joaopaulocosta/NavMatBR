@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/192/trunk/chromevox/cvoxext/common
+END
+speakable_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/190/trunk/chromevox/cvoxext/common/speakable_manager.js
+END
+speakable_parser.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/190/trunk/chromevox/cvoxext/common/speakable_parser.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/186/trunk/chromevox/cvoxext/common/main.js
+END
+traverse_manager.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/186/trunk/chromevox/cvoxext/common/traverse_manager.js
+END
+speakable.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/190/trunk/chromevox/cvoxext/common/speakable.js
+END
+listeners.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/186/trunk/chromevox/cvoxext/common/listeners.js
+END
+extension.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/186/trunk/chromevox/cvoxext/common/extension.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/190/trunk/chromevox/cvoxext/common/util.js
+END

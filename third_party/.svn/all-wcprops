@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/177/trunk/chromevox/third_party
+END
+compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/177/trunk/chromevox/third_party/compiler.jar
+END
+COPYING.rhino
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/177/trunk/chromevox/third_party/COPYING.rhino
+END
+source.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/177/trunk/chromevox/third_party/source.py
+END
+js.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/177/trunk/chromevox/third_party/js.jar
+END
+closurebuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/177/trunk/chromevox/third_party/closurebuilder.py
+END
+treescan.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/177/trunk/chromevox/third_party/treescan.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/177/trunk/chromevox/third_party/README
+END
+jscompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/177/trunk/chromevox/third_party/jscompiler.py
+END
+depswriter.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/177/trunk/chromevox/third_party/depswriter.py
+END
+rhino
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/177/trunk/chromevox/third_party/rhino
+END
+COPYING.compiler
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/177/trunk/chromevox/third_party/COPYING.compiler
+END
+depstree.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/177/trunk/chromevox/third_party/depstree.py
+END
+COPYING.closure
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/177/trunk/chromevox/third_party/COPYING.closure
+END

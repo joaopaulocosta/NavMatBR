@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/234/trunk/chromevox/walkers
+END
+math_shifter_test.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/234/trunk/chromevox/walkers/math_shifter_test.js
+END
+row_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/201/trunk/chromevox/walkers/row_walker.js
+END
+abstract_node_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/201/trunk/chromevox/walkers/abstract_node_walker.js
+END
+math_shifter.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/229/trunk/chromevox/walkers/math_shifter.js
+END
+abstract_selection_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/229/trunk/chromevox/walkers/abstract_selection_walker.js
+END
+word_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/183/trunk/chromevox/walkers/word_walker.js
+END
+structural_line_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/229/trunk/chromevox/walkers/structural_line_walker.js
+END
+abstract_shifter.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/229/trunk/chromevox/walkers/abstract_shifter.js
+END
+layout_line_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/229/trunk/chromevox/walkers/layout_line_walker.js
+END
+table_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/204/trunk/chromevox/walkers/table_walker.js
+END
+character_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/211/trunk/chromevox/walkers/character_walker.js
+END
+group_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/204/trunk/chromevox/walkers/group_walker.js
+END
+column_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/201/trunk/chromevox/walkers/column_walker.js
+END
+bare_object_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/190/trunk/chromevox/walkers/bare_object_walker.js
+END
+abstract_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/201/trunk/chromevox/walkers/abstract_walker.js
+END
+sentence_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/183/trunk/chromevox/walkers/sentence_walker.js
+END
+table_shifter.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/201/trunk/chromevox/walkers/table_shifter.js
+END
+object_walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/204/trunk/chromevox/walkers/object_walker.js
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/234/trunk/chromevox/chromevox/background/mathmaps/symbols
+END
+latin-lower-double-accent.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-lower-double-accent.json
+END
+math_symbols.json
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/math_symbols.json
+END
+math_harpoons.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/math_harpoons.json
+END
+math_non_characters.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/234/trunk/chromevox/chromevox/background/mathmaps/symbols/math_non_characters.json
+END
+greek-small.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/greek-small.json
+END
+latin-upper-double-accent.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-upper-double-accent.json
+END
+math_geometry.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/math_geometry.json
+END
+latin-lower-phonetic.json
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-lower-phonetic.json
+END
+math_whitespace.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/math_whitespace.json
+END
+latin-lower-single-accent.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-lower-single-accent.json
+END
+greek-capital.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/greek-capital.json
+END
+latin-mathfonts.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-mathfonts.json
+END
+latin-upper-single-accent.json
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-upper-single-accent.json
+END
+math_delimiters.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/math_delimiters.json
+END
+hebrew_letters.json
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/234/trunk/chromevox/chromevox/background/mathmaps/symbols/hebrew_letters.json
+END
+math_angles.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/math_angles.json
+END
+greek-scripts.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/greek-scripts.json
+END
+latin-rest.json
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-rest.json
+END
+greek-symbols.json
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/234/trunk/chromevox/chromevox/background/mathmaps/symbols/greek-symbols.json
+END
+latin-lower-normal.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-lower-normal.json
+END
+math_arrows.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/math_arrows.json
+END
+latin-upper-normal.json
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/latin-upper-normal.json
+END
+math_characters.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/math_characters.json
+END
+math_digits.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/211/trunk/chromevox/chromevox/background/mathmaps/symbols/math_digits.json
+END
+other_stars.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/201/trunk/chromevox/chromevox/background/mathmaps/symbols/other_stars.json
+END
+greek-mathfonts.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/229/trunk/chromevox/chromevox/background/mathmaps/symbols/greek-mathfonts.json
+END
