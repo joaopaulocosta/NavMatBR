@@ -1,8 +1,12 @@
 {
   "manifest_version": 2,
   "name": "__MSG_CHROMEVOX_NAME__",
-  "version": "1.0",
+  "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "53.0.2784.3",
+   "web_accessible_resources": [ "chromevox/background/keymaps/next_keymap.json", "chromevox/injected/api.js", "chromevox/injected/api_util.js", "chromevox/injected/mathjax.js", "chromevox/injected/mathjax_external_util.js" ],
   "description": "__MSG_CHROMEVOX_DESCRIPTION__.",
+
+
   "background": {
     "page": "chromevox/background/background.html"
   },
@@ -28,12 +32,40 @@
       "run_at": "document_start"
     }
   ],
+  "commands": {
+      "nextObject": {
+         "description": "__MSG_CHROMEVOX_NEXT_OBJECT__",
+         "suggested_key": {
+            "default": "Alt+Shift+Right"
+         }
+      },
+      "performDefaultAction": {
+         "description": "__MSG_CHROMEVOX_PERFORM_DEFAULT_ACTION__",
+         "suggested_key": {
+            "default": "Alt+Shift+Space"
+         }
+      },
+      "previousObject": {
+         "description": "__MSG_CHROMEVOX_PREVIOUS_OBJECT__",
+         "suggested_key": {
+            "default": "Alt+Shift+Left"
+         }
+      },
+      "readFromHere": {
+         "description": "__MSG_CHROMEVOX_READ_FROM_HERE__",
+         "suggested_key": {
+            "default": "Alt+Shift+R"
+         }
+      }
+   },
   "icons": {
     "16": "chromevox/chromevox-16.png",
     "19": "chromevox/chromevox-19.png",
     "48": "chromevox/chromevox-48.png",
     "128": "chromevox/chromevox-128.png"
   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEGBi/oD7Yl/Y16w3+gee/95/EUpRZ2U6c+8orV5ei+3CRsBsoXI/DPGBauZ3rWQ47aQnfoG00sXigFdJA2NhNK9OgmRA2evnsRRbjYm2BG1twpaLsgQPPus3PyczbDCvhFu8k24wzFyEtxLrfxAGBseBPb9QrCz7B4k2QgxD/CwIDAQAB",
+  
   "web_accessible_resources": [
     "chromevox/injected/api_util.js",
     "chromevox/injected/api.js",
@@ -41,6 +73,6 @@
     "chromevox/injected/mathjax.js"
   ],
   "options_page": "chromevox/background/options.html",
-
+  "external_update_url": "https://clients2.google.com/service/update2/crx",
   "default_locale": "en"
 }

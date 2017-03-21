@@ -190,7 +190,6 @@ cvox.OptionsPage.addKeys = function() {
     evt.preventDefault();
     evt.stopPropagation();
   }, cvox.OptionsPage), true);
-
   var categories = cvox.CommandStore.categories();
   for (var i = 0; i < categories.length; i++) {
     var headerElement = document.createElement('h3');
@@ -260,6 +259,7 @@ cvox.OptionsPage.addKeys = function() {
     var labelElement = document.createElement('label');
     labelElement.className = 'i18n';
     labelElement.setAttribute('msgid', 'options_cvox_modifier_key');
+
     labelElement.setAttribute('for', 'cvoxKey');
 
     var modifierSectionSibling =
@@ -365,6 +365,7 @@ cvox.OptionsPage.setValue = function(element, value) {
 cvox.OptionsPage.eventListener = function(event) {
   window.setTimeout(function() {
     var target = event.target;
+
     if (target.classList.contains('pref')) {
       if (target.tagName == 'INPUT' && target.type == 'checkbox') {
         cvox.OptionsPage.prefs.setPref(target.name, target.checked);

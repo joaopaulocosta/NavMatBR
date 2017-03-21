@@ -142,6 +142,9 @@ cvox.CommandStore.commandsForCategory = function(category) {
  * false.
  */
 cvox.CommandStore.CMD_WHITELIST = {
+    'ModifierKey': {announce: false,
+        msgId: 'modifier_key',
+        category: 'modifier_keys'},
   'toggleStickyMode': {announce: false,
                        msgId: 'toggle_sticky_mode',
                        category: 'modifier_keys'},

@@ -177,6 +177,7 @@ else if (cvox.ChromeVox.isMac)
   cvox.ChromeVox.modKeyStr = 'Ctrl+Cmd';
 else
   cvox.ChromeVox.modKeyStr = 'Ctrl+Alt';
+
 /**
  * If any of these keys is pressed with the modifier key, we go in sequence mode
  * where the subsequent independent key downs (while modifier keys are down)

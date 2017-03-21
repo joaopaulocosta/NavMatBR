@@ -145,8 +145,8 @@ cvox.MathmlStoreRules.initDefaultRules_ = function() {
 
   // Script elements.
   defineDefaultMathmlRule(
-      'msup', '[n] ./*[1]; [t] "super";' +
-          '[n] ./*[2] (pitch:0.35); [p] (pause:300)');
+      'msup', '[n] ./*[1]; [t] "elevado a";' +
+          '[n] ./*[2] (pitch:0.0); [p] (pause:300)');
   defineDefaultMathmlRule(
       'msubsup',
       '[n] ./*[1]; [t] "sub"; [n] ./*[2] (pitch:-0.35); [p] (pause:200);' +
@@ -158,13 +158,17 @@ cvox.MathmlStoreRules.initDefaultRules_ = function() {
   defineDefaultMathmlRule(
       'mover', '[n] ./*[2] (pitch:0.35); [p] (pause:200);' +
           ' [t] "over"; [n] ./*[1]; [p] (pause:400)');
-  defineDefaultMathmlRule(
-      'munder',
-      '[n] ./*[2] (pitch:-0.35); [t] "under"; [n] ./*[1]; [p] (pause:400)');
-  defineDefaultMathmlRule(
-      'munderover',
-      '[n] ./*[2] (pitch:-0.35); [t] "under and"; [n] ./*[3] (pitch:0.35);' +
-          ' [t] "over"; [n] ./*[1]; [p] (pause:400)');
+    defineDefaultMathmlRule(
+        'munder',
+        '[t] "limite de"; ' +
+        '[n] ./*[2] (pitch:-0.35); [p] (pause:400)');
+
+
+    defineDefaultMathmlRule(
+        'munderover',
+        ' [n] ./*[1]; [t] "sendo"; [p] (pause:400);'
+        + '[n] ./*[2] (pitch:-0.35); [t] "até"; [n] ./*[3] (pitch:0.35); [t] "de";'
+    );
 
   // Layout elements.
   defineDefaultMathmlRule('mrow', '[m] ./*');
@@ -174,8 +178,8 @@ cvox.MathmlStoreRules.initDefaultRules_ = function() {
       'mroot', '[t] "Raiz na ordem"; [n] ./*[2]; [t] "de";' +
           '[n] ./*[1] (rate:0.2); [p] (pause:400)');
   defineDefaultMathmlRule(
-      'mfrac', ' [p] (pause:400); [n] ./*[1] (pitch:0.3);' +
-          ' [t] "dividido por"; [n] ./*[2] (pitch:-0.3); [p] (pause:400)');
+      'mfrac', ' [p] (pause:400); [n] ./*[1] (pitch:0.0);' +
+          ' [t] "dividido por"; [n] ./*[2] (pitch:-0.0); [p] (pause:400)');
 
 
   defineRule(
@@ -440,6 +444,11 @@ cvox.MathmlStoreRules.initAliases_ = function() {
 cvox.MathmlStoreRules.initSpecializationRules_ = function() {
   // Some special nodes for square and cube.
   // MathML
+
+    /*defineDefaultMathmlRule(
+        'msup', '[n] ./*[1]; [t] "elevado a";' +
+        '[n] ./*[2] (pitch:0.35); [p] (pause:300)'); */
+
   defineRule(
       'square', 'default.default',
       '[n] ./*[1]; [t] "elevado ao quadrado" (pitch:0.35); [p] (pause:300)',
@@ -448,9 +457,11 @@ cvox.MathmlStoreRules.initSpecializationRules_ = function() {
       'square', 'self::mathml:msup',
       './mathml:mrow=./*[2]', 'count(./*[2]/*)=1', './*[2]/*[1][text()=2]');
 
+
+
   defineRule(
       'cube', 'default.default',
-      '[n] ./*[1]; [t] "elevado ao cubo" (pitch:0.35); [p] (pause:300)',
+      '[n] ./*[1]; [t] "elevado ao cubo" (pitch:0.0); [p] (pause:300)',
       'self::mathml:msup', './*[2][text()=3]');
   defineRuleAlias(
       'cube', 'self::mathml:msup',

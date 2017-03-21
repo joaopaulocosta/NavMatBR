@@ -1349,7 +1349,7 @@
 {"category": "Sm",
  "mappings": {
   "default": {
-   "default": "n ary summation"
+   "default": "Somatório"
   }
  },
  "key": "2211"
@@ -1455,7 +1455,7 @@
 {"category": "Sm",
  "mappings": {
   "default": {
-   "default": "infinity"
+   "default": "infinito"
   }
  },
  "key": "221E"

@@ -105,7 +105,7 @@
   {"category": "Limits",
    "mappings": {
      "default": {
-       "default": "limit",
+       "default": "limite",
        "short": "lim"
      }
    },
